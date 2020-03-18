@@ -1,3 +1,3 @@
-module github.com/digitorus/swagger-merge
+module github.com/ghazninattarshah/swagger-merge
 
 go 1.12
